@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\yaojie\\Desktop\\hello",
+  "arguments": ["D:\\software\\VisualStudio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/Zi", "/FS", "/Fdbuild\\windows\\x64\\debug\\compile.tag.pdb", "/Od", "/EHsc", "/IC:\\Users\\yaojie\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.6.0\\3e06990a1e5f4905b988825fd4a392a4\\include", "/Fobuild\\.objs\\tag\\windows\\x64\\debug\\src\\lena.cpp.obj", "src\\lena.cpp"],
+  "file": "src\\lena.cpp"
+}]
